@@ -33,8 +33,17 @@ export const AboutSection = () => {
             About RGES Innovation Hub
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            A founder-led innovation ecosystem that supports first-time entrepreneurs,
-            student founders, and early-stage teams in their journey from idea to funding
+            RGES embodies four pillars vital to startup success:
+
+Risk: Identifies vulnerabilities in cloud, AI, and digital infrastructure before breaches occur.
+
+Guard: Deploys proactive defenses through VAPT, OSINT, and compliance audits.
+​
+
+Enterprise: Delivers scalable solutions from seed stage to unicorn, bridging MSMEs to global standards.
+
+Solutions: Provides end-to-end services—assessments, training, forensics, and incubation support.
+
           </p>
         </div>
 
