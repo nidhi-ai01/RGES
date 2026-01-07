@@ -33,7 +33,7 @@ export const Header = () => {
           <div className="flex items-center space-x-3">
             <img
               src="https://customer-assets.emergentagent.com/job_325e1cc3-3ef8-4c7b-b9ae-17669d75fe68/artifacts/7b4uzede_rgeslogo.svg"
-              alt="RGES Logo"
+              alt="rges-logo.jpg"
               className="h-12 w-auto"
             />
             <div>
